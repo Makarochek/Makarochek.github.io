@@ -4,5 +4,6 @@ li {
 display: block;;
 }
 a{
-    color: black;
+    color: rgb(255, 255, 255);
+     list-style-type: none;
 }
