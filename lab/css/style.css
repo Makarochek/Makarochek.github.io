@@ -1,7 +1,8 @@
-a {
-    color: rgb(173, 163, 24);
-}
+
 li {
     list-style-type: none;
-display: inline;
+display: block;;
+}
+a{
+    color: black;
 }
